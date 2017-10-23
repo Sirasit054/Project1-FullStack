@@ -1,0 +1,106 @@
+#bd{    
+    background-image: url("image/wall2030x1026f.png");
+}
+#header{
+    color:#303330;
+    font-size: 90px; 
+    font-family: "Times New Roman", Times, serif;
+}
+#f{
+    color:#303330;
+    font-size: 40px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#l{
+    color:#303330;
+    font-size: 30px;
+    font-family: "Times New Roman", Times, serif;
+    
+}
+
+#boxtxt{
+    width: 20%;
+    padding: 10px 15px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: rgba(242, 246, 248, 0.73);
+    color: black;
+    font-size: 20px;
+    font-family: 'Chewy', cursive;
+}
+
+#show{
+    font-size: 30px;
+    width: 15%;
+    padding: 10px 15px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: rgba(39, 209, 115, 0.73);
+    color: black;
+    font-family: 'Chewy', cursive;
+}
+
+#posts{    
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+   
+    left: 600px;
+    top: -200px; 
+}
+
+#show1{    
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+   
+    left: 600px;
+    top: -200px; 
+}
+
+
+.show{
+    width: 20%;
+    padding: 10px 15px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: rgba(242, 246, 248, 0.73);
+    color: black;
+    font-size: 20px;
+    font-family: 'Chewy', cursive;
+}
+
+
+
+
+
+#delete{
+    color:#FFF300;
+    font-size: 30px;
+    font-family: 'Chewy', cursive;
+    width: 5%;
+    padding: 10px 15px;
+    margin: 8px 0;
+}
+
+#edit{
+    color:#FFF300;
+    font-size: 30px;
+    font-family: 'Chewy', cursive;
+    width: 5%;
+    padding: 10px 15px;
+    margin: 8px 0;
+}
+
+#save{
+    color:#FFF300;
+    font-size: 30px;
+    font-family: 'Chewy', cursive;
+    width: 5%;
+    padding: 10px 15px;
+    margin: 8px 0;
+}
