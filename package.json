@@ -2,15 +2,15 @@
   "name": "bookstore",
   "version": "1.0.0",
   "description": "Simple bookstore app",
-  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
-    "mongoose": "^4.12.4"
+    "mongoose": "^4.13.6"
   },
-  "author": "Brad Traversy",
+  "author": "Sirasit Molee",
   "license": "ISC"
 }
